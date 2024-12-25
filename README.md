@@ -1,7 +1,7 @@
 # Wine Quality Prediction
 
 This project aims to predict the quality of wine based on various chemical properties using machine learning algorithms. The wine dataset consists of both red and white wine data, with different features representing chemical properties. The goal is to classify wine into two categories: **'Good Quality'** (quality ≥ 7) and **'Bad Quality'** (quality < 7).
-
+![Wine Quality Prediction](images/wine-quality.png)
 ## Background
 
 Wine quality assessment has traditionally been a subjective process based on expert tasters. However, with the availability of chemical data, it is now possible to automate this process using data-driven techniques. This project explores the use of machine learning to develop a model that can predict the quality of wine based on its chemical properties.
